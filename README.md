@@ -37,3 +37,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 14. Bouldering
 15. Kabaddi
 16. badminton
+17. sumo
